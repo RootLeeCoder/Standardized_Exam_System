@@ -1,0 +1,13 @@
+G:\VSworkspace\Standardized_Exam_System\Standardized_Exam_System\bin\Debug\Standardized_Exam_System.exe.config
+G:\VSworkspace\Standardized_Exam_System\Standardized_Exam_System\bin\Debug\Standardized_Exam_System.exe
+G:\VSworkspace\Standardized_Exam_System\Standardized_Exam_System\bin\Debug\Standardized_Exam_System.pdb
+G:\VSworkspace\Standardized_Exam_System\Standardized_Exam_System\obj\Debug\Standardized_Exam_System.csprojResolveAssemblyReference.cache
+G:\VSworkspace\Standardized_Exam_System\Standardized_Exam_System\obj\Debug\Standardized_Exam_System.Form1.resources
+G:\VSworkspace\Standardized_Exam_System\Standardized_Exam_System\obj\Debug\Standardized_Exam_System.Form2.resources
+G:\VSworkspace\Standardized_Exam_System\Standardized_Exam_System\obj\Debug\Standardized_Exam_System.Properties.Resources.resources
+G:\VSworkspace\Standardized_Exam_System\Standardized_Exam_System\obj\Debug\Standardized_Exam_System.csproj.GenerateResource.Cache
+G:\VSworkspace\Standardized_Exam_System\Standardized_Exam_System\obj\Debug\Standardized_Exam_System.exe
+G:\VSworkspace\Standardized_Exam_System\Standardized_Exam_System\obj\Debug\Standardized_Exam_System.pdb
+C:\Users\ligen\Desktop\temp\C#标准化考试系统\V5.0_Beta\Standardized_Exam_System\Standardized_Exam_System\bin\Debug\Standardized_Exam_System.exe.config
+C:\Users\ligen\Desktop\temp\C#标准化考试系统\V5.0_Beta\Standardized_Exam_System\Standardized_Exam_System\obj\Debug\Standardized_Exam_System.exe
+C:\Users\ligen\Desktop\temp\C#标准化考试系统\V5.0_Beta\Standardized_Exam_System\Standardized_Exam_System\obj\Debug\Standardized_Exam_System.pdb
